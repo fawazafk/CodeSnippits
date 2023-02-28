@@ -1,5 +1,5 @@
 # CodeSnippits
-is a collection of simple standalone code for a specific purpose.
+This is a collection of simple standalone code for a specific purpose.
 
 ## (File:ConsecutiveRef.bas) Adding En Dash Automatically for Consecutive Numbers
 This is just a word macro. Apparently, some writers who use references may need this. Basically, it should convert this:
